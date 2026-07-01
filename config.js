@@ -1,5 +1,5 @@
 const config = {
-    profileImage: "profil.jpg",
+    profileImage: "profil1.jpg",
 
     backgrounds: [
         "bg1.jpg",
