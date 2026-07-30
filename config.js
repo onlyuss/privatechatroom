@@ -1,13 +1,13 @@
 const config = {
-    profileImage: "profil1.jpg",
+    profileImage: "profil2.jpg",
 
     backgrounds: [
         "bg1.jpg",
         "bg2.jpg"
     ],
 
-    whatsappLink: "https://kereva.heavengiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=236468&s2=2173856&click_id=Grup_Dongo",
-    telegramLink: "https://kereva.heavengiirls.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=236468&s2=2173856&click_id=Grup_Dongo",
+    whatsappLink: "https://kglwea.dreamforya.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=165068&s2=1724369&click_id=Prameswari",
+    telegramLink: "https://kglwea.dreamforya.com/?utm_source=da57dc555e50572d&ban=fb&j1=1&s1=165068&s2=1724369&click_id=Prameswari",
 
     minMembers: 10000,
     maxMembers: 15000,
